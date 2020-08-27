@@ -151,7 +151,7 @@ public class NodeTest {
     }
 
     /**
-     * Checks whether the function prints according to the print formatõ
+     * Checks whether the function prints according to the print format.
      * Because the tests we have BeforeEach the Node are created 60 times before and so when we run everything together
      * the Nodes keys will start from 61.Note (!) that if we run it alone the test will NOT work because the key starts from 1
      */
