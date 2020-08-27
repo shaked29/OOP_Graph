@@ -6,7 +6,8 @@ public class DGraph implements graph{
 
 	@Override
 	public node_data getNode(int key) {
-System.out.println();		return null;
+
+		return null;
 	}
 
 	@Override
